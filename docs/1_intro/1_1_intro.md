@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This repository is a collection of `knowledge` related to the `Mythic C2 Framework` documentation, planning, code snippets, and other resources related to my attemps at maintaining and enhancing `Mythic`.
+This repository is a collection of `knowledge` related to the `Mythic C2 Framework` documentation, planning, code snippets, and other resources related to my attemps at maintaining and enhancing `Mythic` for my own entertainment .
 
 ## Purpose
 
